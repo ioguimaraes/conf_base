@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  tole_name: conf_base
   author: ioguimaraes
   description: Configuracao Base de usuarios, pacotes e hosts
   company: Personal Test
